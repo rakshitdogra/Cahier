@@ -1,5 +1,5 @@
 # Cahier
-Cahier is a notepad / Basic level Python IDE (BETA)
+Cahier is a notepad / Code Editor (BETA) created using python and tkinter. 
 
 # Supported devices
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
